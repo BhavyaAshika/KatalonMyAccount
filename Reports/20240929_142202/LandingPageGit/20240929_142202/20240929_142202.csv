@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+LandingPageGit,Edge Chromium 129,,,29-09-2024 14:22:07,29-09-2024 14:22:13,6.583s,PASSED
+,,,,,,,
+Test Cases/LandingPageGit,Edge Chromium 129,,,29-09-2024 14:22:07,29-09-2024 14:22:13,6.278s,PASSED
+"openBrowser("""")",Edge Chromium 129,,,29-09-2024 14:22:07,29-09-2024 14:22:12,4.333s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/"")",Edge Chromium 129,,,29-09-2024 14:22:12,29-09-2024 14:22:13,0.866s,PASSED
+"verifyElementText(findTestObject(""Object Repository/LandingpageGit/Page_JPetStore Demo/a_Enter the Store""), ""Enter the Store"")",Edge Chromium 129,,,29-09-2024 14:22:13,29-09-2024 14:22:13,0.411s,PASSED
+closeBrowser(),Edge Chromium 129,,,29-09-2024 14:22:13,29-09-2024 14:22:13,0.266s,PASSED
